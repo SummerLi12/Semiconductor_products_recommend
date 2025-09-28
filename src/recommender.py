@@ -1,12 +1,13 @@
 #retrival 
 from langchain.chains import RetrievalQA
 from langchain_groq import ChatGroq
-from src.prompt_template import get_anime_prompt
+from src.prompt_template import get_Semiconductor_supplies_prompt
 
-class AnimeRecommender:
+
+class SuppliesRecommender:
     def __init__(self,retriever,api_key:str,model_name:str):
         self.llm = ChatGroq(api_key=api_key,model=model_name,temperature=0)
-        self.prompt = get_anime_prompt()
+        self.prompt = get_Semiconductor_supplies_prompt()
 
         self.qa_chain = RetrievalQA.from_chain_type(
             llm = self.llm,
