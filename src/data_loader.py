@@ -3,6 +3,8 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import json
+from datetime import datetime
 
 def fetch_intel_products():
     url = "https://www.intel.com/content/www/us/en/products/sensors.html"  # Example URL
@@ -107,7 +109,47 @@ class SuppliesDataLoader:
         """
         combined_df = self.load_and_combine()
         realtime_df = self.fetch_realtime_updates()
+        update_info_path = os.path.join(self.data_dir, 'update_info.json')
+        update_history_path = os.path.join(self.data_dir, 'update_history.json')
+        new_items_count = 0
+        new_products = []
+        update_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         if not realtime_df.empty:
+            # Find new products (not already in combined_df by Name and Company)
+            if not combined_df.empty:
+                merged = pd.merge(realtime_df, combined_df, on=["Name", "Company"], how="left", indicator=True)
+                new_products_df = merged[merged["_merge"] == "left_only"][realtime_df.columns]
+            else:
+                new_products_df = realtime_df
+            new_items_count = len(new_products_df)
+            new_products = new_products_df.to_dict(orient="records")
             # Merge or update products as needed (customize merge logic as required)
             combined_df = pd.concat([combined_df, realtime_df], ignore_index=True)
+        # Write update info (latest)
+        update_info = {
+            "last_update_time": update_time,
+            "new_items_count": new_items_count,
+            "new_products": new_products
+        }
+        try:
+            with open(update_info_path, 'w', encoding='utf-8') as f:
+                json.dump(update_info, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            print(f"Error writing update info: {e}")
+        # Append to update history
+        try:
+            if os.path.exists(update_history_path):
+                with open(update_history_path, 'r', encoding='utf-8') as f:
+                    history = json.load(f)
+            else:
+                history = []
+            history.append({
+                "update_time": update_time,
+                "new_items_count": new_items_count,
+                "new_products": new_products
+            })
+            with open(update_history_path, 'w', encoding='utf-8') as f:
+                json.dump(history, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            print(f"Error writing update history: {e}")
         return combined_df

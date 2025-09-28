@@ -13,10 +13,9 @@ class SuppliesRecommender:
             llm = self.llm,
             chain_type = "stuff",
             retriever = retriever,
-            return_source_documents = True,
-            chain_type_kwargs = {"prompt":self.prompt}
+            chain_type_kwargs = {"prompt":self.prompt},
+            return_source_documents = True
         )
 
     def get_recommendation(self,query:str):
-        result = self.qa_chain({"query":query})
-        return result['result']
+        return self.qa_chain({"query":query})

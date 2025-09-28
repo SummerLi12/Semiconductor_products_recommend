@@ -1,4 +1,4 @@
-from langchain.text_splitter import CharacterTextSplitter
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import Chroma
 from langchain_community.document_loaders.csv_loader import CSVLoader
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -16,12 +16,12 @@ class VectorStoreBuilder:
         loader = CSVLoader(
             file_path=self.csv_path,
             encoding='utf-8',
-            metadata_columns=[]
+            source_column='notes' # Use the 'notes' column for embeddings
         )
 
         data = loader.load()
 
-        splitter = CharacterTextSplitter(chunk_size=1000,chunk_overlap=0)
+        splitter = RecursiveCharacterTextSplitter(chunk_size=1000,chunk_overlap=100)
         texts = splitter.split_documents(data)
 
         db = Chroma.from_documents(texts,self.embedding,persist_directory=self.persist_dir)
@@ -29,5 +29,3 @@ class VectorStoreBuilder:
 
     def load_vector_store(self):
         return Chroma(persist_directory=self.persist_dir,embedding_function=self.embedding)
-
-
