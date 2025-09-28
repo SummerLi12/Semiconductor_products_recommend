@@ -5,8 +5,8 @@ HUGGINGFACEHUB_API_TOKEN="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"
 
 2. Install Dependencies and Run
 
-   pip install -r requirements.txt
+pip install -r requirements.txt
 
 3 run below code on the terminal
 
-  streamlit run app/app.py
+streamlit run app/app.py
