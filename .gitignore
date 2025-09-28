@@ -19,6 +19,7 @@ lib64/
 parts/
 sdist/
 var/
+wheels/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -65,6 +66,7 @@ coverage.xml
 # Environment
 .env
 .venv
+venv/
 env/
 venv/
 ENV/
@@ -73,6 +75,11 @@ venv.bak/
 
 # Mac
 .DS_Store
+# IDE / Editor specific
+.idea/
+.vscode/
 
 # Windows
 Thumbs.db
+# Test artifacts
+chroma_db_test/
