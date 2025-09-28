@@ -1,9 +1,23 @@
-langchain
-langchain-community
-langchain_groq
-chromadb
-streamlit
+# Core data tools
 pandas
 python-dotenv
+
+# Streamlit app framework
+streamlit
+
+# Vector database
+chromadb
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+
+# Embeddings and models
 sentence-transformers
-langchain_huggingface
+
+# Web scraping utilities
+beautifulsoup4
+lxml
+requests
