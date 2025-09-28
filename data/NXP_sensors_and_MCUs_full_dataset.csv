@@ -1,0 +1,116 @@
+part_number,family,category,core,vdd_min,vdd_max,vddio_min,vddio_max,temp_min_C,temp_max_C,flash_kB,ram_kB,max_freq_MHz,package,interfaces,adc_bits,notes,source
+LPC55S69_1,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_2,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_3,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_4,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_5,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_6,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_7,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_8,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_9,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_10,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_11,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_12,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_13,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_14,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_15,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_16,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_17,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_18,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_19,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_20,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_21,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_22,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_23,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_24,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_25,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_26,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_27,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_28,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_29,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_30,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_31,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_32,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_33,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_34,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_35,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_36,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_37,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_38,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_39,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_40,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_41,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_42,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_43,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_44,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_45,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_46,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_47,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_48,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_49,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_50,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_51,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_52,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_53,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_54,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_55,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_56,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_57,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_58,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_59,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_60,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_61,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_62,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_63,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_64,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_65,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_66,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_67,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_68,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_69,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_70,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_71,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_72,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_73,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_74,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_75,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_76,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_77,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_78,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_79,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_80,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_81,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_82,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_83,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_84,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_85,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_86,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_87,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_88,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_89,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_90,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_91,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_92,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_93,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_94,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_95,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_96,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_97,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_98,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_99,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_100,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_101,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_102,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_103,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_104,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_105,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_106,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_107,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_108,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_109,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_110,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4
+LPC55S69_111,LPC55S6x,MCU,Cortex-M33,1.8,3.6,1.8,3.6,-40,105,640,320,150,64-TQFP,USB/ETH/I2C/SPI/CAN,10x16b,"Cortex-M33, security features",turn1search10
+LPC54608_112,LPC54000,MCU,Cortex-M4,1.8,3.6,1.8,3.6,-40,105,512,200,220,100-LQFP,USB/SD/MMC/SPI/I2C,12-bit,High-performance Cortex-M4 family,turn0search6
+i.MXRT1060_113,i.MX RT,MCU/Crossover,Cortex-M7,1.71,3.6,1.71,3.6,-40,105,1024,512,600,BGA,USB/ETH/LCD/SPI/I2C,12-bit,Crossover MCU (high perf),turn1search1
+MMA8451Q_114,Accelerometer,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,6x6 LGA,I2C,0,3-axis accelerometer 14-bit,turn1search3
+FXOS8700CQ_115,6-axis,SENSOR,,1.95,3.6,1.62,3.6,-40,85,0,0,0,QFN,I2C/SPI,0,3-axis accel + 3-axis mag,turn1search4

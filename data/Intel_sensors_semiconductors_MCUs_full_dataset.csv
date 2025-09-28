@@ -1,0 +1,121 @@
+part_number,family,category,core,vdd_min,vdd_max,vddio_min,vddio_max,temp_min_C,temp_max_C,flash_kB,ram_kB,max_freq_MHz,package,interfaces,adc_bits,notes,source
+QuarkD2000_1,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_2,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_3,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_4,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_5,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_6,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_7,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_8,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_9,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_10,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_11,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_12,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_13,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_14,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_15,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_16,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_17,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_18,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_19,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_20,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_21,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_22,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_23,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_24,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_25,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_26,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_27,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_28,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_29,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_30,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_31,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_32,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_33,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_34,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_35,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_36,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_37,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_38,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_39,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_40,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_41,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_42,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_43,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_44,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_45,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_46,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_47,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_48,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_49,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_50,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_51,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_52,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_53,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_54,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_55,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_56,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_57,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_58,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_59,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_60,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_61,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_62,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_63,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_64,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_65,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_66,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_67,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_68,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_69,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_70,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_71,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_72,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_73,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_74,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_75,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_76,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_77,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_78,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_79,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_80,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_81,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_82,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_83,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_84,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_85,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_86,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_87,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_88,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_89,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_90,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_91,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_92,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_93,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_94,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_95,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_96,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_97,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_98,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_99,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_100,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_101,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_102,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_103,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_104,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_105,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_106,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_107,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_108,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_109,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_110,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_111,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_112,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
+QuarkD2000_113,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,32,8,32,32-QFN,I2C/SPI/UART,12-bit,Low-power x86 MCU,datasheet
+QuarkSE_114,Quark,MCU,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/USB,12-bit,MCU with sensor subsystem,datasheet
+Curie_115,Curie Module,MCU+BLE,x86,1.71,3.6,1.71,3.6,-40,85,384,80,32,BGA,I2C/SPI/UART/BLE,12-bit,Wearable module,datasheet
+Edison_116,Module,MCU+WiFi,Atom,3.3,3.6,3.3,3.6,-40,85,4096,1024,500,Module,WiFi/BT/I2C/SPI/UART,12-bit,IoT module,datasheet
+MAX10_117,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,200,BGA,GPIO/ADC,12-bit,Altera MAX 10 FPGA,datasheet
+CycloneV_118,FPGA,FPGA,FPGA,1.2,3.3,1.2,3.3,-40,125,0,0,800,BGA,GPIO/ADC,12-bit,Altera Cyclone V FPGA,datasheet
+IntelRealSenseD435_119,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,Depth camera module,datasheet
+IntelLIDARL515_120,RealSense,SENSOR,,1.2,3.3,1.2,3.3,-10,40,0,0,0,Module,USB3,0,LIDAR depth camera,datasheet
