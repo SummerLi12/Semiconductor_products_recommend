@@ -22,4 +22,3 @@ for gcp: make sure in environment to run
 source venv/bin/activate
 streamlit run app/app.py --server.port=8501 --server.address=0.0.0.0
 then navigate to http://34.45.1.125:8501/
->>>>>>> b26a132fff08fadb50cddbfb7f7a61b9d0d463de
